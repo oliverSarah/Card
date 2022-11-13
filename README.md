@@ -1,2 +1,2 @@
 # Card
- Van Gogh card inspired from:Markzuel. 
+ Van Gogh card inspired from: Markzuel. 
